@@ -32,6 +32,8 @@ Boot animations and sounds as of now. Ill try to find more resources with time.
 - KLCK
 - KLWP
 
+### Custom Rom Designs
+https://www.figma.com/file/DiabLmhu0w9UYCPzCQVEU2/Metro-UI-Designs?type=design&mode=design&t=wRZXVl6da0Gybbzm-0
 
 ### Credits: 
 
@@ -42,3 +44,4 @@ Boot animations and sounds as of now. Ill try to find more resources with time.
 ##### Notes: 
 
 I do not own most of these applications except for maybe some of the widgets and lockscreen.
+Please do not PM me about the custom rom. Im still wondering if I should start it or not. 
